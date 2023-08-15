@@ -7,7 +7,7 @@ app.use(express.json())
 // Your code goes here
 
 app.get("/",async(req,res)=>{
-    res.json("this project is created by shubham kumar rajak")
+    res.sendFile(`${__dirname}/pages/intro.html`)
 })
 
 app.get("/subscribers",async(req,res)=>{
