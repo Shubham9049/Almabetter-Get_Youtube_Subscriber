@@ -6,7 +6,7 @@ describe("Test the main page", () => {
       const response = await testReq(app).get("/");
       expect(response.status).toBe(200);
       expect(response.text).toBe(
-        "This project is done by shubham ,chirag,shubham shankyan,hk mishra"
+        "This project is done by shubham kumar rajak ,chirag baweja,shubham shankyan,harekrishna mishra"
       );
     });
   });
