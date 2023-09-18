@@ -1,6 +1,6 @@
 # Almabetter-Get_Youtube_Subscriber
 <hr>
-<h3> :yt: This backend project is made using NodeJS, Express, MongoDB Atlas database and Mongoose. By including specific routes in the URL, an user can access the number of subscribers, add subscribers or access subscribers by specific IDs. :yt: </h3>
+<h3> <p>:yt:</p> This backend project is made using NodeJS, Express, MongoDB Atlas database and Mongoose. By including specific routes in the URL, an user can access the number of subscribers, add subscribers or access subscribers by specific IDs. <p>:yt:</p> </h3>
 <h2><b>Deployed Link</b></h2> 
 <a href="https://deployed-five-plum.vercel.app/">CLick here to preview</a>
 
