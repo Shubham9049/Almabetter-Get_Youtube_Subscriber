@@ -11,7 +11,7 @@
   <li>GET/subscribers :=>Return an array of all subscribers in the database</li>
   <li>GET/subscribersName :=>Returns an array of subscribers with name and subscribedChannel</li>
   <li>GET/subscribers/:id :=>	Returns the details of a subscriber with the given ID.</li>
-  <liAdding new subscribers to database</li>
+  <li>Adding new subscribers to database</li>
 </ul>
 
 # FAQ
