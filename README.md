@@ -11,4 +11,10 @@
   <li>GET/subscribers :=>Return an array of all subscribers in the database</li>
   <li>GET/subscribersName :=>Returns an array of subscribers with name and subscribedChannel</li>
   <li>GET/subscribers/:id :=>	Returns the details of a subscriber with the given ID.</li>
+  <liAdding new subscribers to database</li>
 </ul>
+
+# FAQ
+<hr>
+<p><b>How to add new subscribers?</b></p>
+<p>Use Postman to add new subscribers on the database.</p>
